@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+nav{
+    background-color: paleturquoise;
+    padding: 20px;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    margin: 10px;
+    background-color: navajowhite;
+    padding: 10px;
+    border-radius: 20px;
+    color: olivedrab;
+    font-size: 18px;
+}
+.button{
+    background-color: hotpink;
+    color: white;
+
+}
+header{
+    background-color: turquoise;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
